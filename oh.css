@@ -7,16 +7,10 @@ html {
 }
 
 body {
-	font-family: 'GT-America-Compressed-Black-Italic', sans-serif;
+	font-family: 'GT-America-Compressed-Ultralight', sans-serif;
 	margin: 0;
 }
 
 header, footer, main,menu,nav,section,summary {
 	display: block;
 }
-
-a {
-	background-color: transparent;
-	-webkit-text-decoration-skip: objects;
-}
-
