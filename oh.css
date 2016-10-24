@@ -1,13 +1,14 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 
 html {
-	font-family: sans-serif;
+	font-family: 'Nanum Gothic', sans-serif;
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 }
 
 body {
-	font-family: 'GT-America-Compressed-Ultralight', sans-serif;
 	margin: 0;
 }
 
