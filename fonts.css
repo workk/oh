@@ -1,9 +1,9 @@
 
 @font-face {
   font-family: 'GT-America-Compressed-Ultralight';
-  src: url("/fonts/GT-America-Compressed-Ultra-Light.eot");
+  src: url("./fonts/GT-America-Compressed-Ultra-Light.eot");
   /* IE9 Compat Modes */
-  src: url("/fonts/GT-America-Compressed-Ultra-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/GT-America-Compressed-Ultra-Light.woff2") format("woff2"), url("../fonts/GT-America-Compressed-Ultra-Light.woff") format("woff"), url("../fonts/GT-America-Compressed-Ultra-Light.ttf") format("truetype");
+  src: url("./fonts/GT-America-Compressed-Ultra-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/GT-America-Compressed-Ultra-Light.woff2") format("woff2"), url("../fonts/GT-America-Compressed-Ultra-Light.woff") format("woff"), url("../fonts/GT-America-Compressed-Ultra-Light.ttf") format("truetype");
   /* Safari, Android, iOS */
   font-weight: normal;
   font-style: normal;
